@@ -1,0 +1,5 @@
+// similar to property file.. creating dictionary
+{
+	"en": "Hello",
+	"es": "Hola"
+}
